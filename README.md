@@ -7,3 +7,6 @@
 3. Then choose Global and Security, then click OK
 4. Now, let’s add John Doe to the HR Department.
 5. Click on Joe Doe >member of> Add > type #HR_Department then click OK.
+
+
+![image](https://github.com/user-attachments/assets/d2c30543-2628-44df-afc3-11bd168ebc47)
